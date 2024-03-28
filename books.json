@@ -1,0 +1,80 @@
+[
+    {
+        "bookId": 1,
+        "bookName": "The Great Gatsby",
+        "author": "F. Scott Fitzgerald",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ22km31E_FQ128CmVVt8z0jBMXotM5Xg30JA&usqp=CAU",
+        "review": "The Great Gatsby is a masterpiece capturing the essence of the Jazz Age.",
+        "totalPages": 180,
+        "rating": 4.5,
+        "category": "Classic",
+        "tags": ["Romance", "Drama", "1920s"],
+        "publisher": "Scribner",
+        "yearOfPublishing": 1925
+    },
+    {
+        "bookId": 2,
+        "bookName": "1984",
+        "author": "George Orwell",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHSFaPoZwmx8aZFD2WRDX6dHaKJbliWwIVdA&usqp=CAU",
+        "review": "A dystopian classic that feels alarmingly relevant today.",
+        "totalPages": 328,
+        "rating": 4.7,
+        "category": "Science Fiction",
+        "tags": ["Dystopian", "Political"],
+        "publisher": "Secker & Warburg",
+        "yearOfPublishing": 1949
+    },
+    {
+        "bookId": 3,
+        "bookName": "To Kill a Mockingbird",
+        "author": "Harper Lee",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSumOY7hxkESzRcGyig3K7rF_rrE2Ef_i3fLg&usqp=CAU",
+        "review": "A timeless exploration of morality and justice.",
+        "totalPages": 281,
+        "rating": 4.8,
+        "category": "Fiction",
+        "tags": ["Coming of Age", "Legal Drama"],
+        "publisher": "J. B. Lippincott & Co.",
+        "yearOfPublishing": 1960
+    },
+    {
+        "bookId": 4,
+        "bookName": "The Catcher in the Rye",
+        "author": "J.D. Salinger",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIGxIeu4JBgG_uSx2XttQqXSSznTw0XtdUAw&usqp=CAU",
+        "review": "Holden Caulfield's narrative is poignant and unforgettable.",
+        "totalPages": 224,
+        "rating": 4.3,
+        "category": "Fiction",
+        "tags": ["Coming of Age", "Alienation"],
+        "publisher": "Little, Brown and Company",
+        "yearOfPublishing": 1951
+    },
+    {
+        "bookId": 5,
+        "bookName": "Pride and Prejudice",
+        "author": "Jane Austen",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgiBWkgSsLGkCecOfn8mz89vdF6Fd0iF245A&usqp=CAU",
+        "review": "A delightful comedy of manners with memorable characters.",
+        "totalPages": 279,
+        "rating": 4.6,
+        "category": "Romance",
+        "tags": ["Regency", "Social Commentary"],
+        "publisher": "T. Egerton, Whitehall",
+        "yearOfPublishing": 1813
+    },
+    {
+        "bookId": 6,
+        "bookName": "The Hitchhiker's Guide to the Galaxy",
+        "author": "Douglas Adams",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoLOtOli3aE_x3_1ZdtChrPRIu6bTxIxNpJA&usqp=CAU",
+        "review": "A hilarious romp through space filled with absurdity and wit.",
+        "totalPages": 193,
+        "rating": 4.4,
+        "category": "Science Fiction",
+        "tags": ["Satire", "Adventure"],
+        "publisher": "Pan Books",
+        "yearOfPublishing": 1979
+    }
+]
